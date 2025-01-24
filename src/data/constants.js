@@ -10,6 +10,9 @@ import insta from "../images/insta.png";
 import twitter from "../images/twitter.png";
 import vfx from "../images/vfx.png";
 import spotify from "../images/spotify.png";
+import guardian from "../images/guardian.png";
+import dapp from "../images/dapp.png";
+
 
 export const Bio = {
     name: "Rabie Houssaini",
@@ -437,6 +440,30 @@ export const Bio = {
       category: "Flutter",
       github: "https://github.com/rabieHs/flutter_chat_app",
       webapp: "https://github.com/rabieHs/flutter_chat_app",
+    },
+    {
+      id: 11,
+      title: "Guardian",
+      date: "Jan 2025",
+      description:
+        "Guardian is a Swift and SwiftUI-based family tracking app with Firebase for the backend. It features real-time tracking, a 3D interactive map, danger zone and place alerts, movement history, and SOS emergency alerts. Built with MVVM architecture, it ensures secure and seamless family monitoring.",
+      image:guardian,
+      tags: ["Swift", "SwiftUI", "MMVM", "Firebase", "MapKit"],
+      category: "iOS",
+      github: "https://github.com/rabieHs/Guardian",
+      webapp: "https://github.com/rabieHs/Guardian",
+    },
+    {
+      id: 12,
+      title: "Election Dapp",
+      date: "Dec 2024",
+      description:
+        "Election DApp is a secure, tamper-proof voting system leveraging Web3 and blockchain technology. Built with Flutter for a seamless UI, Solidity for smart contracts, and Remix for smart contract development, it ensures trust and transparency in modern voting. ",
+      image:dapp,
+      tags: ["Flutter", "BlockChain","Remix","Solidity", "Provider", "Dart"],
+      category: "Flutter",
+      github: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
+      webapp: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
     },
   ];
   
