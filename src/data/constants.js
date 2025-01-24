@@ -12,6 +12,9 @@ import vfx from "../images/vfx.png";
 import spotify from "../images/spotify.png";
 import guardian from "../images/guardian.png";
 import dapp from "../images/dapp.png";
+import crypty from "../images/crypty.png";
+import mosque from "../images/mosque.png";
+import oasis from "../images/oasis.png";
 
 
 export const Bio = {
@@ -272,7 +275,7 @@ export const Bio = {
       id: 0,
       img: "https://www.ecoles.com.tn/sites/default/files/universite/logo/logo_isimG.jpg",
       school: "Higher institute of computer science and multimedia of gabes",
-      date: "Oct 2021 - Sep 2025",
+      date: "Oct 2021 - Jul 2023",
       grade: "17.58",
       desc: "I am currently pursuing a Bachelor's degree in  Arts and multimedia at the higher institute of computer science and multimedia of gabes, Bhubaneswar. I have completed 5 semesters and have a 17.58 of 20 . I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Graphic Design, UI/UX and  others. I am also a member of the Tunisian Programming Lovers, VFX isimg and Microsoft Tunisian  Student Clubs , where I am learning and working on exciting projects with a team of talented developers.",
       degree: "Bachelor of Arts and multimedia (BAM)",
@@ -281,7 +284,7 @@ export const Bio = {
       id: 1,
       img: "https://www.ecoles.com.tn/sites/default/files/universite/logo/logo_isimG.jpg",
       school: "Higher institute of computer science and multimedia of gabes",
-      date: "Oct 2021 - Sep 2025",
+      date: "Oct 2023 - Jul 2026",
       grade: "-",
       desc: "I am currently pursuing a Engeneer degree in  Software Engeneering  at the higher institute of computer science and multimedia of gabes",
       degree: "Software Engeneering",
@@ -464,6 +467,43 @@ export const Bio = {
       category: "Flutter",
       github: "https://github.com/rabieHs/flutter_chat_app",
       webapp: "https://github.com/rabieHs/flutter_chat_app",
+    },
+
+    {
+      id: 13,
+      title: "Mosque Finder",
+      date: "Jun 2024",
+      description:
+        "A Flutter mobile app that helps users find nearby mosques, view prayer times, and get directions to the mosque. The app uses the Google Maps API for location services and the Aladhan API for prayer times. Users can also view mosque details, such as facilities, contact information, and reviews.",
+      image:mosque,
+      tags: ["Flutter", "Bloc", "Clean architecture", "Google Maps", "Rest Apis", "Flask"],
+      category: "Flutter",
+      github: "https://github.com/rabieHs/find-mosque",
+      webapp: "https://github.com/rabieHs/find-mosque",
+    },
+    {
+      id: 14,
+      title: "Crypty",
+      date: "May 2024",
+      description:
+        "A Native iOS app that allows users to track their cryptocurrency investments and view real-time market data. Users can add their crypto holdings, track their portfolio performance, and receive price alerts for their favorite coins. The app also includes a news feed with the latest crypto updates and a watchlist feature for monitoring specific coins. Developed with Swift and SwiftUI, the app offers a seamless user experience with intuitive navigation and interactive charts.",
+      image:crypty,
+      tags: ["Swift", "Swiftui", "CoinGecko", "Combine","CoreData","MVVM"],
+      category: "iOS",
+      github: "https://github.com/rabieHs/crypty",
+      webapp: "https://github.com/rabieHs/crypty",
+    },
+    {
+      id: 15,
+      title: "Oasis Coffee",
+      date: "Apr 2024",
+      description:
+        "A Flutter mobile app that allows users to order coffee and pastries from a local cafe. Users can browse the menu, customize their order, and pay securely using the app. The app also includes a loyalty program, push notifications, and order tracking features. Developed with Flutter and Firebase for a seamless user experience.",
+      image:oasis,
+      tags: ["Flutter", "Firebase", "Dart"],
+      category: "Flutter",
+      github: "https://github.com/rabieHs/oasis_app",
+      webapp: "https://github.com/rabieHs/oasis_app",
     },
     
   ];
