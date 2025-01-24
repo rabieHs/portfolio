@@ -292,6 +292,30 @@ export const Bio = {
   export const projects = [
     {
       id: 0,
+      title: "Guardian",
+      date: "Jan 2025",
+      description:
+        "Guardian is a Swift and SwiftUI-based family tracking app with Firebase for the backend. It features real-time tracking, a 3D interactive map, danger zone and place alerts, movement history, and SOS emergency alerts. Built with MVVM architecture, it ensures secure and seamless family monitoring.",
+      image:guardian,
+      tags: ["Swift", "SwiftUI", "MMVM", "Firebase", "MapKit"],
+      category: "iOS",
+      github: "https://github.com/rabieHs/Guardian",
+      webapp: "https://github.com/rabieHs/Guardian",
+    },
+    {
+      id: 1,
+      title: "Election Dapp",
+      date: "Dec 2024",
+      description:
+        "Election DApp is a secure, tamper-proof voting system leveraging Web3 and blockchain technology. Built with Flutter for a seamless UI, Solidity for smart contracts, and Remix for smart contract development, it ensures trust and transparency in modern voting. ",
+      image:dapp,
+      tags: ["Flutter", "BlockChain","Remix","Solidity", "Provider", "Dart"],
+      category: "Flutter",
+      github: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
+      webapp: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
+    },
+    {
+      id: 2,
       title: "Spotify Clone",
       date: "Jun 2023 - Jul 2023",
       description: "The Spotify Clone is a native iOS application meticulously crafted using programmatic UIKit (without Storyboard), Swift, and the Spotify API. It seamlessly retrieves tracks, albums, playlists, and categories from the Spotify platform, offering users a comprehensive music browsing experience. Additionally, the app includes a library feature, enabling users to create, update, and delete playlists effortlessly." ,
@@ -308,7 +332,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 1,
+      id: 3,
       title: "Instagram Clone",
       date: "Apr 2023 - May 2023",
       description:
@@ -322,7 +346,7 @@ export const Bio = {
      
     },
     {
-      id: 2,
+      id: 4,
       title: "E-Commerce APP",
       date: "Jul 2022 - Sep 2022",
       description:
@@ -341,7 +365,7 @@ export const Bio = {
       webapp: "https://github.com/rabieHs/fullstack-e_commerce-app-flutter-nodeJs-MongoDB",
     },
     {
-      id: 3,
+      id: 5,
       title: "Todo App",
       date: "OCT 2023 - OCT 2023",
       description:
@@ -354,7 +378,7 @@ export const Bio = {
       webapp: "https://github.com/rabieHs/ToDoList-iOS",
     },
     {
-      id: 4,
+      id: 6,
       title: "Music Player APP",
       date: "Dec 2021 - Apr 2022",
       description:
@@ -367,7 +391,7 @@ export const Bio = {
       webapp: "https://github.com/rabieHs/Music_Player_App",
     },
     {
-      id: 5,
+      id: 7,
       title: "VFX club APP",
       date: "Jun 2023 - Jul 2023",
       description:
@@ -379,7 +403,7 @@ export const Bio = {
       webapp: "https://github.com/rishavchanda/Job-finder-App",
     },
     {
-      id: 6,
+      id: 8,
       title: "Twitter Clone",
       date: "Jul 2021",
       description:
@@ -393,7 +417,7 @@ export const Bio = {
     },
   
     {
-      id: 7,
+      id: 9,
       title: "Solu Dashboard",
       date: "Jun 2021",
       description:
@@ -406,7 +430,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id: 8,
+      id: 10,
       title: "Wiin",
       date: "Jun 2022",
       description:
@@ -418,7 +442,7 @@ export const Bio = {
       webapp: "https://github.com/rabieHs/wiin-service-Provider-App-flutter",
     },
     {
-      id: 9,
+      id: 11,
       title: "Mindwell",
       date: "Dec 2022 - Mar 2023",
       description:
@@ -430,7 +454,7 @@ export const Bio = {
       webapp: "https://github.com/rabieHs/PFE-Mental-health-App",
     },
     {
-      id: 10,
+      id: 12,
       title: "Chatify",
       date: "May 2022",
       description:
@@ -441,30 +465,7 @@ export const Bio = {
       github: "https://github.com/rabieHs/flutter_chat_app",
       webapp: "https://github.com/rabieHs/flutter_chat_app",
     },
-    {
-      id: 11,
-      title: "Guardian",
-      date: "Jan 2025",
-      description:
-        "Guardian is a Swift and SwiftUI-based family tracking app with Firebase for the backend. It features real-time tracking, a 3D interactive map, danger zone and place alerts, movement history, and SOS emergency alerts. Built with MVVM architecture, it ensures secure and seamless family monitoring.",
-      image:guardian,
-      tags: ["Swift", "SwiftUI", "MMVM", "Firebase", "MapKit"],
-      category: "iOS",
-      github: "https://github.com/rabieHs/Guardian",
-      webapp: "https://github.com/rabieHs/Guardian",
-    },
-    {
-      id: 12,
-      title: "Election Dapp",
-      date: "Dec 2024",
-      description:
-        "Election DApp is a secure, tamper-proof voting system leveraging Web3 and blockchain technology. Built with Flutter for a seamless UI, Solidity for smart contracts, and Remix for smart contract development, it ensures trust and transparency in modern voting. ",
-      image:dapp,
-      tags: ["Flutter", "BlockChain","Remix","Solidity", "Provider", "Dart"],
-      category: "Flutter",
-      github: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
-      webapp: "https://github.com/rabieHs/Election-Dapp-Flutter-Solidity",
-    },
+    
   ];
   
   export const TimeLineData = [
