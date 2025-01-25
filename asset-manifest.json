@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf538fe7.css",
-    "main.js": "/static/js/main.c48e7188.js",
-    "static/media/spotify.png": "/static/media/spotify.91f7a3caa22e7ede3cdf.png",
-    "static/media/mosque.png": "/static/media/mosque.633115ab4df3588fd60b.png",
-    "static/media/oasis.png": "/static/media/oasis.af59fe81f715a5a318f8.png",
-    "static/media/commerce.png": "/static/media/commerce.b6a9981ae3e6c0355e68.png",
-    "static/media/chatify.png": "/static/media/chatify.d484f52756df6511f56e.png",
-    "static/media/wiin.png": "/static/media/wiin.5f02cd8b61c0c8a42c81.png",
-    "static/media/dapp.png": "/static/media/dapp.1cf312cc07d810a741c2.png",
-    "static/media/music.png": "/static/media/music.a59c6a6be600624a74ad.png",
-    "static/media/mindwell.png": "/static/media/mindwell.94665394a25593b939ba.png",
-    "static/media/solu.png": "/static/media/solu.9ec5b2d9ccbf4d86bbfa.png",
-    "static/media/twitter.png": "/static/media/twitter.7abb9c7650489ee39175.png",
-    "static/media/vfx.png": "/static/media/vfx.66c242196415a0bff74d.png",
-    "static/media/insta.png": "/static/media/insta.e4d265b73f1231d5018a.png",
-    "static/media/crypty.png": "/static/media/crypty.d53cb32916a29e9f0aae.png",
-    "static/media/guardian.png": "/static/media/guardian.d6597f7c88807dfab31b.png",
-    "static/media/todo.png": "/static/media/todo.1b8c012ea3ccfd7892eb.png",
-    "static/media/HeroImage.jpg": "/static/media/HeroImage.2859e463872918982f3d.jpg",
-    "index.html": "/index.html",
-    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
-    "main.c48e7188.js.map": "/static/js/main.c48e7188.js.map"
+    "main.css": "/porifolio/static/css/main.bf538fe7.css",
+    "main.js": "/porifolio/static/js/main.f3cd37e2.js",
+    "static/media/spotify.png": "/porifolio/static/media/spotify.91f7a3caa22e7ede3cdf.png",
+    "static/media/mosque.png": "/porifolio/static/media/mosque.633115ab4df3588fd60b.png",
+    "static/media/oasis.png": "/porifolio/static/media/oasis.af59fe81f715a5a318f8.png",
+    "static/media/commerce.png": "/porifolio/static/media/commerce.b6a9981ae3e6c0355e68.png",
+    "static/media/chatify.png": "/porifolio/static/media/chatify.d484f52756df6511f56e.png",
+    "static/media/wiin.png": "/porifolio/static/media/wiin.5f02cd8b61c0c8a42c81.png",
+    "static/media/dapp.png": "/porifolio/static/media/dapp.1cf312cc07d810a741c2.png",
+    "static/media/music.png": "/porifolio/static/media/music.a59c6a6be600624a74ad.png",
+    "static/media/mindwell.png": "/porifolio/static/media/mindwell.94665394a25593b939ba.png",
+    "static/media/solu.png": "/porifolio/static/media/solu.9ec5b2d9ccbf4d86bbfa.png",
+    "static/media/twitter.png": "/porifolio/static/media/twitter.7abb9c7650489ee39175.png",
+    "static/media/vfx.png": "/porifolio/static/media/vfx.66c242196415a0bff74d.png",
+    "static/media/insta.png": "/porifolio/static/media/insta.e4d265b73f1231d5018a.png",
+    "static/media/crypty.png": "/porifolio/static/media/crypty.d53cb32916a29e9f0aae.png",
+    "static/media/guardian.png": "/porifolio/static/media/guardian.d6597f7c88807dfab31b.png",
+    "static/media/todo.png": "/porifolio/static/media/todo.1b8c012ea3ccfd7892eb.png",
+    "static/media/HeroImage.jpg": "/porifolio/static/media/HeroImage.2859e463872918982f3d.jpg",
+    "index.html": "/porifolio/index.html",
+    "main.bf538fe7.css.map": "/porifolio/static/css/main.bf538fe7.css.map",
+    "main.f3cd37e2.js.map": "/porifolio/static/js/main.f3cd37e2.js.map"
   },
   "entrypoints": [
     "static/css/main.bf538fe7.css",
-    "static/js/main.c48e7188.js"
+    "static/js/main.f3cd37e2.js"
   ]
 }
